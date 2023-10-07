@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+table ,td , th{
+	border:1px solid black;
+	width:600px;
+}
+
+th {
+	text-align:left;
+
+}
+#row2{
+	background-color:#da9694;
+	text-align:right;
+}
+#row3{
+	background-color:#f2dcdb;
+	text-align:right;
+}
+#row4{
+	background-color:#d9d9d9;
+	text-align:right;
+}
